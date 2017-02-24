@@ -1,6 +1,6 @@
 #/bin/bash
 
-imagename=torquessh
+imagename=torquessh_base
 
 echo "I will start (run) a new container from image $imagename - press CTRL+C to stop, enter to continue"
 read
