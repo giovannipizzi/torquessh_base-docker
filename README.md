@@ -1,3 +1,6 @@
+# NOTE
+This is an old package that used to be in the GitHub `aiidateam` organization, and is not maintained anymore.
+
 # Image for running simulations
 
 This image has a basic environment with possibility to access
@@ -33,4 +36,3 @@ Beside the typical basic ubuntu system, and a SSH server, it contains:
 # Dockerfile repository
 
 `https://github.com/aiidateam/torquessh_base-docker`.
-
